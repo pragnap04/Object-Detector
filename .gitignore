@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO / Ultralytics
+runs/
+*.cache
+
+# Generated outputs
+outputs/
+
+# Development backups
+development_backups/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
